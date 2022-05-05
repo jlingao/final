@@ -92,7 +92,7 @@ function draw() {
   
     text("In 1942, the actress Hedy Lamarr \n and her friend George Antheil \n patented an invention that would later \n form the basis for all wireless \n communication", 10, 500);
   
-  text("by Julianne Lingao 2022 \n This work is inspired and named after Cleo \n Abram\'s series \"404 Page Not Found\", in which she explores the hidden stories of \n women in science. These stories seemed best told through glitch art as the\n work of these women has been censored for decades, similar to how technology is\n bounded by the ideas of its producers and can only truly be explored\n through glitch. In his essay on glitch art, Nick Briz notes \"technology is not\n neutral\", and this work further demonstrates that history has never been neutral \n either. This page features the work of 3 women: Hedy Lamarr, Rosalind\n Franklin, and Elizabeth Magie- and attempts to tell the story of the injustices\n they faced.", 1100, 700);
+  text("by Julianne Lingao 2022 \n This work is inspired and named after Cleo \n Abram\'s series \"404 Page Not Found\", in which she explores the hidden stories of \n women in science. These stories seemed best told through glitch art as the\n work of these women has been censored for decades, similar to how technology is\n bounded by the ideas of its producers and can only truly be explored\n through glitch. In his essay on glitch art, Nick Briz notes \"technology is not\n neutral\", and this work further demonstrates that history has never been neutral \n either. This page features the work of 3 women: Hedy Lamarr, Rosalind\n Franklin, and Elizabeth Magie- and attempts to tell the story of the injustices\n they faced.", 1100, 750);
 
     
 }
